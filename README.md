@@ -1,4 +1,4 @@
-Vim Configuration
+My VIM Configuration 🛠️
 
 This configuration file is designed to enhance usability and productivity in Vim. It includes settings for better indentation, search behavior, and overall editor functionality. Here's what it does:
 Features:
