@@ -1,0 +1,29 @@
+" Disable Vi compatibility mode
+set nocompatible
+
+" Enable line numbers
+set nu
+
+" Enable syntax highlighting
+syntax on
+
+" Show partial commands in the status line
+set showcmd
+
+" Enable filetype-specific plugins and indenting
+filetype plugin indent on
+
+" Set tab behavior
+set tabstop=2       " Number of spaces for a tab
+set shiftwidth=2    " Number of spaces for auto-indentation
+set expandtab       " Use spaces instead of tabs
+
+" Make backspace more flexible
+set backspace=indent,eol,start
+
+" Search behavior
+set hlsearch        " Highlight search results
+set incsearch       " Incremental search (show matches as you type)
+set ignorecase      " Case-insensitive search
+set smartcase       " Case-sensitive if search includes uppercase
+
